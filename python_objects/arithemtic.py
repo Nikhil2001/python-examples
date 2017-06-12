@@ -23,6 +23,6 @@ print 9/4.0
 #check division 
 
 
-#power check
+# 3  power 2
 
 print 3**2

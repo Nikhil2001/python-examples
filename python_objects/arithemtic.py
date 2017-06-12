@@ -20,7 +20,7 @@ print 9/4
 
 print 9/4.0
 
-#check division 
+#check division.py file for true division and classic division
 
 
 # 3  power 2

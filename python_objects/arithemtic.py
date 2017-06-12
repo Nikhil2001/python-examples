@@ -1,6 +1,6 @@
 #!/usr/bin/python
 
-#just an intro to arithemetic
+# just an intro to arithemetic
 #add two numbers
 
 print 1+2

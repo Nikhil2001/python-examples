@@ -3,7 +3,7 @@ python snippets
 
 
 To execute 
-on your terminal execute ---> python file.py
+on your terminal run command ---> python file.py
 
            OR
 
@@ -11,7 +11,14 @@ on your terminal execute ---> python file.py
 
 2.to execute --> ./file.py on terminal
 
-3 to execute as file.py on terminal ,add $PATH variable in .bashrc
+3 to execute as file.py on terminal, add $PATH variable in .bashrc
+
+for more check,
+
+ https://stackoverflow.com/questions/14637979/how-to-permanently-set-path-on-linux
+
+
+
 
 This repository consists of following topics
 
